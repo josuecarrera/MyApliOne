@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyApliOne</string>
+    <string name="male">Hombre</string>
+    <string name="women">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">error</string>
+    <string name="title_bajo_peso">Bajo Peso</string>
+    <string name="description_bajo_peso">Estas por debajo de tu Peso, tamanio y altura</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estas con tu Peso normal, tamanio y altura</string>
+
+    <string name="title_sobrepeso">Sobre Peso</string>
+    <string name="description_sobrepeso">Estas en lo encima para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estas MUY por encima para tu peso y altura</string>
+
+    <string name="todo_title">Bienvenidos</string>
+    <string name="todo_categories">Categorias:</string>
+    <string name="todo_tasks">Tareas:</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Other</string>
+
+</resources>
